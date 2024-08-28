@@ -81,17 +81,17 @@ Used the model created to predict the results of each match.
 - Real Madrid has higher average goals scored per game than Bayern munich in both the current season and historically in the champions league competition.
 - Real Madrid also has the higher average goals conceded per game, both in current season and historically when compared to Bayern Munich in champions league.
 
-<img src="Images and Screenshots/Screenshot 2024-08-27 214836.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 205032.png" alt="Champions League Trophy" width="100%" height="500" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 214836.png" alt="Champions League Trophy" width="80%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 205032.png" alt="Champions League Trophy" width="100%" height="400" />
 
 - Both Real madrid and Bayern munich have won 7/10 games in this UCL season. Real madrid has not lost a single game whereas Bayern munich have lost one game. Real madrid had 3 draws whereas Bayern munich had 2 draws.
 
-<img src="Images and Screenshots/Screenshot 2024-08-27 205128.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 205323.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 205159.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 205212.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 205339.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 205353.png" alt="Champions League Trophy" width="45%" height="300" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 205128.png" alt="Champions League Trophy" width="80%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 205323.png" alt="Champions League Trophy" width="80%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 205159.png" alt="Champions League Trophy" width="80%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 205212.png" alt="Champions League Trophy" width="80%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 205339.png" alt="Champions League Trophy" width="80%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 205353.png" alt="Champions League Trophy" width="45%" height="250" />
 
 ### Analysis on player performances of Bayern Munich's current UCL season
 
@@ -125,9 +125,9 @@ Used the model created to predict the results of each match.
 - Borussia Dortmund has higher average goals scored per game in the current season but historically Paris Saint-Germain has higher average goals scored per game in the champions league competition.
 - Borussia Dortmund has the higher average goals conceded per game, both in current season and historically when compared to Paris Saint-Germain in champions league.
 
-<img src="Images and Screenshots/Screenshot 2024-08-27 210943.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 210958.png" alt="Champions League Trophy" width="100%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211123.png" alt="Champions League Trophy" width="100%" height="500" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 210943.png" alt="Champions League Trophy" width="80%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 210958.png" alt="Champions League Trophy" width="100%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211123.png" alt="Champions League Trophy" width="100%" height="400" />
 
 - Both Borussia Dortmund and Paris Saint-Germain have won 5/10 games in this UCL season. Borussia Dortmund has lost 2 games whereas PSG has lost 3 games. Borussia Dortmund had 3 draws whereas PSG had 2 draws.
 
@@ -136,7 +136,7 @@ Used the model created to predict the results of each match.
 <img src="Images and Screenshots/Screenshot 2024-08-27 211024.png" alt="Champions League Trophy" width="80%" height="500" />
 <img src="Images and Screenshots/Screenshot 2024-08-27 211057.png" alt="Champions League Trophy" width="80%" height="500" />
 <img src="Images and Screenshots/Screenshot 2024-08-27 211154.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211207.png" alt="Champions League Trophy" width="45%" height="300" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211207.png" alt="Champions League Trophy" width="45%" height="250" />
 
 ### Analysis on player performances of Borussia Dortmund's current UCL season
 
@@ -168,9 +168,9 @@ Used the model created to predict the results of each match.
 - Real Madrid has higher average goals scored per game in both current season and historically when compared to Borussia Dortmund in the champions league competition.
 - Borussia Dortmund has the higher average goals conceded per game, both in current season and historically when compared to Real Madrid in champions league.
 
-<img src="Images and Screenshots/Screenshot 2024-08-27 211639.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211705.png" alt="Champions League Trophy" width="100%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211842.png" alt="Champions League Trophy" width="100%" height="500" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211639.png" alt="Champions League Trophy" width="80%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211705.png" alt="Champions League Trophy" width="100%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211842.png" alt="Champions League Trophy" width="100%" height="400" />
 
 - Real madrid has won 7/10 games and Borussia Dortmund has won 5/10 games in this UCL season. Real madrid has not lost a single game whereas Borussia Dortmund have lost 2 games. Both Real madrid and Borussia Dortmund Have drawn 3 times in the current UCL season.
 
@@ -179,7 +179,7 @@ Used the model created to predict the results of each match.
 <img src="Images and Screenshots/Screenshot 2024-08-27 211749.png" alt="Champions League Trophy" width="80%" height="500" />
 <img src="Images and Screenshots/Screenshot 2024-08-27 211811.png" alt="Champions League Trophy" width="80%" height="500" />
 <img src="Images and Screenshots/Screenshot 2024-08-27 211927.png" alt="Champions League Trophy" width="80%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 212013.png" alt="Champions League Trophy" width="45%" height="300" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 212013.png" alt="Champions League Trophy" width="45%" height="250" />
 
 # Model Selection
 
