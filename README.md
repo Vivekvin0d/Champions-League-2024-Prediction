@@ -131,11 +131,11 @@ Used the model created to predict the results of each match.
 
 - Both Borussia Dortmund and Paris Saint-Germain have won 5/10 games in this UCL season. Borussia Dortmund has lost 2 games whereas PSG has lost 3 games. Borussia Dortmund had 3 draws whereas PSG had 2 draws.
 
-<img src="Images and Screenshots/Screenshot 2024-08-27 211009.png" alt="Champions League Trophy" width="70%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211137.png" alt="Champions League Trophy" width="70%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211024.png" alt="Champions League Trophy" width="70%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211057.png" alt="Champions League Trophy" width="70%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211154.png" alt="Champions League Trophy" width="70%" height="500" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211009.png" alt="Champions League Trophy" width="70%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211137.png" alt="Champions League Trophy" width="70%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211024.png" alt="Champions League Trophy" width="70%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211057.png" alt="Champions League Trophy" width="70%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211154.png" alt="Champions League Trophy" width="70%" height="400" />
 <img src="Images and Screenshots/Screenshot 2024-08-27 211207.png" alt="Champions League Trophy" width="40%" height="250" />
 
 ### Analysis on player performances of Borussia Dortmund's current UCL season
@@ -174,11 +174,11 @@ Used the model created to predict the results of each match.
 
 - Real madrid has won 7/10 games and Borussia Dortmund has won 5/10 games in this UCL season. Real madrid has not lost a single game whereas Borussia Dortmund have lost 2 games. Both Real madrid and Borussia Dortmund Have drawn 3 times in the current UCL season.
 
-<img src="Images and Screenshots/Screenshot 2024-08-27 211724.png" alt="Champions League Trophy" width="70%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211906.png" alt="Champions League Trophy" width="70%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211749.png" alt="Champions League Trophy" width="70%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211811.png" alt="Champions League Trophy" width="70%" height="500" />
-<img src="Images and Screenshots/Screenshot 2024-08-27 211927.png" alt="Champions League Trophy" width="70%" height="500" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211724.png" alt="Champions League Trophy" width="70%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211906.png" alt="Champions League Trophy" width="70%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211749.png" alt="Champions League Trophy" width="70%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211811.png" alt="Champions League Trophy" width="70%" height="400" />
+<img src="Images and Screenshots/Screenshot 2024-08-27 211927.png" alt="Champions League Trophy" width="70%" height="400" />
 <img src="Images and Screenshots/Screenshot 2024-08-27 212013.png" alt="Champions League Trophy" width="40%" height="250" />
 
 # Model Selection
